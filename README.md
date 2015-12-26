@@ -2,7 +2,7 @@
 
 ## 개요
 
-<img src="http://i.imgur.com/iBdh7QT.jpg" widht=500px />
+<img src="http://i.imgur.com/iBdh7QT.jpg" width=500px />
 
 - BoB 할로윈 컨퍼런스에 여러분을 초대합니다.
 - 흥미로운 주제의 발표, 다양한 게임 및 경품, 할로윈 포토존 운영, Best Dresser 선발 등 다양한 행사가 준비되어 있습니다.
